@@ -1,0 +1,11 @@
+**/obj/
+**/bin/
+**/*.wasm
+**/*.gz
+**/*.bak
+**/*.db
+**/*.db-wal
+**/*.db-shm
+**/*.bundle
+Active_Projects/YouTubeDownloading/
+ProjectBuilder/gradle/wrapper/gradle-wrapper.jar
